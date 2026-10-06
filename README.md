@@ -69,6 +69,10 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" title="Android" height="25"/>
 </span>
 &nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" title="Jetpack Compose" height="25"/>
+</span>
+&nbsp;
 
 
 ### <u> Version Control and Tools:</u>
