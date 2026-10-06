@@ -48,7 +48,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 
-### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
+### <u> Backend Development + Database Technologies & Tools: </u>
 
 <br>
 
