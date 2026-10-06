@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'> First of all, thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> First of all, thank you for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me </h2>
