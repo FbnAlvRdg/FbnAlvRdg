@@ -49,6 +49,11 @@
 </span>
 &nbsp;
 
+<span>
+    <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logoColor=white" alt="REST API" />
+  </span>
+&nbsp;
+
 ### <u> Mobile App Development Technologies: </u>
 
 <span>
