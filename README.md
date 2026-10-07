@@ -104,13 +104,7 @@
 </span>
 &nbsp;
 
-
-
-
-
-
-
-
+<br>
 
 <i> Recently, I'm also learning: </i>
 
