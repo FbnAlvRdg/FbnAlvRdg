@@ -119,7 +119,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail" height="25"/>
 </a>
 
-<h2>Projects: </h2>
+<h2>Projects: 🚀</h2>
 
 <p align="left">
   <a href="https://github.com/FbnAlvRdg/ZinemaAppAndroid">
