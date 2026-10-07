@@ -104,8 +104,6 @@
 <a href = 'https://www.linkedin.com/in/fabian-alvarez-rodriguez'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
   
 <br>
-<br>
-<br>
 
 <hr>
   
