@@ -125,7 +125,6 @@
 
 ### Stats:
 <hr>
-  
-![Fabian's github stats](https://github-readme-stats.vercel.app/api?username=FbnAlvRdg&show_icons=true&include_all_commits=true&hide=issues,prs,contribs&theme=tokyonight)
+![Fabian's github stats](https://github-readme-stats.vercel.app/api?username=FbnAlvRdg&show_icons=true&include_all_commits=true&hide=stars,issues,contribs&theme=tokyonight)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FbnAlvRdg&theme=tokyonight)
