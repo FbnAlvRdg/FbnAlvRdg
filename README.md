@@ -85,7 +85,7 @@
 
 ### Tools/IDEs:
 
-<br
+<br>
 
 <span>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="25"/>
