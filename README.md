@@ -121,7 +121,7 @@
 
 <h2>Projects: </h2>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/FbnAlvRdg/ZinemaAppAndroid">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FbnAlvRdg&repo=ZinemaAppAndroid&theme=tokyonight" />
   </a>
