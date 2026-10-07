@@ -133,9 +133,9 @@
 </a>
   
 <br>
-<hr>
 
 ### Stats:
+<hr>
   
 ![Fabian's github stats](https://github-readme-stats.vercel.app/api?username=FbnAlvRdg&show_icons=true&theme=tokyonight) 
 <br>
