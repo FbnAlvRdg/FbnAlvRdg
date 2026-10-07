@@ -117,6 +117,7 @@
 <a href = 'https://www.linkedin.com/in/fabian-alvarez-rodriguez'> 
  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="25"/>
 </a>
+&nbsp;
 
 <a href="mailto:fabian.alv.rdg@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail" height="25"/>
