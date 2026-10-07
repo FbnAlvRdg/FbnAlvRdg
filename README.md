@@ -34,7 +34,7 @@
 
 <br>
 
-### <u> Frontend Development Technologies and Tools: </u>
+### <u> Frontend Development Technologies: </u>
 
 <br>
 
@@ -48,7 +48,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 
-### <u> Backend Development + Database Technologies & Tools: </u>
+### <u> Backend Development + Database Technologies: </u>
 
 <br>
 
@@ -61,7 +61,7 @@
 </span>
 &nbsp;
 
-### <u> Mobile App Development Technologies & Tools: </u>
+### <u> Mobile App Development Technologies: </u>
 
 <br>
 
@@ -74,8 +74,7 @@
 </span>
 &nbsp;
 
-
-### <u> Version Control and Tools:</u>
+### <u> Version Control:</u>
 
 <br>
 
@@ -84,11 +83,31 @@
 <span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
 &nbsp;
 
-<br>
+### Tools/IDEs:
 
-### Tools
+<br
 
-<br>
+<span>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="25"/>
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" title="Android Studio" height="25"/>
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" title="Visual Studio" height="25"/>
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code" height="25"/>
+</span>
+&nbsp;
+
+
+
+
+
 
 
 
