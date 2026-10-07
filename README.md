@@ -11,6 +11,8 @@
 
 - 📱 Mainly focused on Android development with Kotlin and Jetpack Compose, while also working with Java and Spring Boot on the backend.
 
+- 🧠 Background in Psychology, bringing strong communication and problem-solving skills to software development.
+
 - 🚀 I enjoy building applications, learning new technologies and exploring different areas of software development.
 
 - 🌱 Currently improving my skills in Android, Kotlin, Spring Boot and software architecture.
