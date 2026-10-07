@@ -35,8 +35,6 @@
 
 ### <u> Frontend Development Technologies: </u>
 
-<br>
-
 <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux logo" title="Redux" height="25" /></span>
@@ -47,9 +45,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 
-### <u> Backend Development + Database Technologies: </u>
-
 <br>
+
+### <u> Backend Development + Database Technologies: </u>
 
 <span>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" title="Spring Boot" height="25"/>
@@ -62,8 +60,6 @@
 
 ### <u> Mobile App Development Technologies: </u>
 
-<br>
-
 <span>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" title="Android" height="25"/>
 </span>
@@ -73,18 +69,18 @@
 </span>
 &nbsp;
 
-### <u> Version Control:</u>
-
 <br>
+
+### <u> Version Control:</u>
 
 <span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="Git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
 &nbsp;
 
-### Tools/IDEs:
-
 <br>
+
+### Tools/IDEs:
 
 <span>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="25"/>
@@ -103,6 +99,7 @@
 </span>
 &nbsp;
 
+<br>
 <br>
 
 <i> Recently, I'm also learning: </i>
