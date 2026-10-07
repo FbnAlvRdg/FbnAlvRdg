@@ -122,8 +122,8 @@
 </a>
   
 <br>
-
 <h2>Stats:</h2>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FbnAlvRdg&theme=tokyonight)
 <br>
 ![Fabian's github stats](https://github-readme-stats.vercel.app/api?username=FbnAlvRdg&show_icons=true&include_all_commits=true&theme=tokyonight)
