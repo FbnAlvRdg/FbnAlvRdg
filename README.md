@@ -32,18 +32,6 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin" height="25"/>
 </span>
 
-### <u> Frontend Development Technologies: </u>
-
-<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI logo" title="Material UI" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-
 ### <u> Backend Development + Database Technologies: </u>
 
 <span>
@@ -123,6 +111,7 @@
 &nbsp;
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
 <a href = 'https://www.linkedin.com/in/fabian-alvarez-rodriguez'> 
  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="25"/>
 </a>
@@ -137,6 +126,6 @@
 ### Stats:
 <hr>
   
-![Fabian's github stats](https://github-readme-stats.vercel.app/api?username=FbnAlvRdg&show_icons=true&theme=tokyonight) 
+![Fabian's github stats](https://github-readme-stats.vercel.app/api?username=FbnAlvRdg&show_icons=true&include_all_commits=true&hide=issues,prs,contribs&theme=tokyonight)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FbnAlvRdg&theme=tokyonight)
