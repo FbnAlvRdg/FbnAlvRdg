@@ -31,8 +31,6 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin" height="25"/>
 </span>
 
-<br>
-
 ### <u> Frontend Development Technologies: </u>
 
 <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
