@@ -78,8 +78,6 @@
 <span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
 &nbsp;
 
-<br>
-
 ### Tools/IDEs:
 
 <span>
