@@ -7,8 +7,6 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - 💻 Software Developer with a background in application development and a strong interest in Mobile Development.
 
 - 📱 Mainly focused on Android development with Kotlin and Jetpack Compose, while also working with Java and Spring Boot on the backend.
@@ -120,10 +118,16 @@
 <a href="mailto:fabian.alv.rdg@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail" height="25"/>
 </a>
+
+<h2>Projects: </h2>
+
+<p align="center">
+  <a href="https://github.com/FbnAlvRdg/ZinemaAppAndroid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FbnAlvRdg&repo=ZinemaAppAndroid&theme=tokyonight" />
+  </a>
   
 <br>
 <h2>Stats: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"></h2>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FbnAlvRdg&theme=tokyonight)
 <br>
-![Fabian's github stats](https://github-readme-stats.vercel.app/api?username=FbnAlvRdg&show_icons=true&include_all_commits=true&theme=tokyonight)
