@@ -123,7 +123,7 @@
 
 <p align="left">
   <a href="https://github.com/FbnAlvRdg/ZinemaAppAndroid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FbnAlvRdg&repo=ZinemaAppAndroid&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FbnAlvRdg&repo=ZinemaAppAndroid&theme=tokyonight&v=2" />
   </a>
   
 <br>
