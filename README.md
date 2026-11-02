@@ -130,13 +130,13 @@
 
 <p align="left">
   <a href="https://github.com/FbnAlvRdg/ZinemaAppAndroid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FbnAlvRdg&repo=ZinemaAppAndroid&theme=tokyonight&v=2" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=FbnAlvRdg&repo=ZinemaAppAndroid&theme=tokyonight&v=2" />
   </a>
   
 <br>
 <h2>Stats: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"></h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FbnAlvRdg&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=FbnAlvRdg&theme=tokyonight)
 <br>
 
 ### THANK YOUR FOR VISITING MY PROFILE! 
