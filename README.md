@@ -136,7 +136,11 @@
 <br>
 <h2>Stats: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"></h2>
 
+<p align="left">
+  
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=FbnAlvRdg&theme=tokyonight)
+  
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=FbnAlvRdg&theme=tokyonight)
 <br>
 
 ### THANK YOUR FOR VISITING MY PROFILE! 
