@@ -140,7 +140,7 @@
   
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=FbnAlvRdg&theme=tokyonight)
   
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=FbnAlvRdg&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=FbnAlvRdg&theme=tokyonight&show=contributions,prs_merged,prs_authored)
 <br>
 
 ### THANK YOUR FOR VISITING MY PROFILE! 
